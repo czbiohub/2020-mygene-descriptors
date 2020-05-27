@@ -1,0 +1,11 @@
+name: mygene
+channels:
+  - bioconda
+  - conda-forge
+  - r
+  - defaults
+dependencies:
+  - mygene
+  - ipykernel
+
+
